@@ -2,11 +2,7 @@
 Here’s a **GitHub repository description** for your project:    
 ### Empowering Women with AI-Driven Insights on PCOS & Hormonal Health  
 
-Here’s an updated **GitHub repository description** with the **PCOS Report Scanner** feature included:  
-
----
-
-# 🩺 PCOS Health Assistant & AI-Based Fertility Tracker  
+Here’s an updated **GitHub repository description** with the **PCOS Report Scanner** feature included: 
 ### Empowering Women with AI-Driven Insights on PCOS & Hormonal Health  
 
 ## 🌟 About the Project  
